@@ -1,5 +1,5 @@
 # PoolGame
-Simple Pool/8-Ball-ish Game meant to show a working knowledge of OpenGL for my graduate-level Computer Graphics course. Uses GLFW and GLM libraries. CMake rules are provided below.
+Simple Pool/8-Ball-ish Game meant to show a working knowledge of OpenGL for my graduate-level Computer Graphics course. Uses GLFW and GLM libraries. CMake rules are provided below (assumes files are placed in a directory named 'pool').
 Pool Table, Balls, and Cue were modeled in Blender. Integrates Bullet physics library to create a collision mesh for Table and Balls, and simulate game physics.
 
 ```
